@@ -1,0 +1,32 @@
+/* Write your CSS code here */
+.blogContainer {
+  padding: 25px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-left: 50px;
+}
+.titleHead {
+  font-size: 25px;
+  font-weight: bold;
+}
+.imgAuthor {
+  display: flex;
+  margin-bottom: 5px;
+}
+.avatarImage {
+  height: 50px;
+  border-radius: 40px;
+}
+.authorPara {
+  font-size: 15px;
+}
+.reactImage {
+  height: 60vh;
+  width: 60vw;
+}
+.contentPara {
+  font-size: 20px;
+  font-weight: 400;
+  width: 90%;
+}
